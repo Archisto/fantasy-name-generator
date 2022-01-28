@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <pooled_obj name="pon1">
+        <inner_obj>iot1</inner_obj>
+    </pooled_obj>
+    <pooled_obj name="pon2">pot1</pooled_obj>
+    <pooled_obj name="pon3">pot2</pooled_obj>
+    <pooled_obj name="pon4">pot3</pooled_obj>
+    <pooled_obj name="pon5">pot4</pooled_obj>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fantasy Name Generator</string>
+    <string name="action_settings">Menu Button</string>
+    <string name="text1">Text on the screen</string>
+    <string name="action_feedback">Hey! You tapped the button.</string>
+    <string name="count_up">Count Up</string>
+    <string name="current_count">Current Count:</string>
+    <string name="well_done">Well done!</string>
+    <string name="toggle_separators">Toggle Separators</string>
+    <string name="separators_active">Separators are activated in future names.</string>
+    <string name="separators_inactive">Separators are deactivated in future names.</string>
+    <string name="name_part_count">Name part count: %d</string>
+    <string name="name_count">Names: %d</string>
+    <string name="change_name_count">Change Name Count</string>
+</resources>

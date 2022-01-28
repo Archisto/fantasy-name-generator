@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fantasianimigeneraattori</string>
+    <string name="action_settings">Valikkonappi</string>
+    <string name="text1">Tekstiä ruudulla</string>
+    <string name="action_feedback">Noni, nyt sä sitten painoit sitä nappia.</string>
+    <string name="current_count">Nykyinen luku:</string>
+    <string name="count_up">Kasvata lukua</string>
+    <string name="well_done">Niin sitä pitää!</string>
+    <string name="toggle_separators">Erottajat</string>
+    <string name="separators_active">Erottajat ovat päällä tulevissa nimissä.</string>
+    <string name="separators_inactive">Erottajat ovat pois päältä tulevissa nimissä.</string>
+    <string name="name_part_count">Nimen osien lukumäärä: %d</string>
+    <string name="name_count">Nimien lukumäärä: %d</string>
+    <string name="change_name_count">Muuta nimien lukumäärää</string>
+</resources>
