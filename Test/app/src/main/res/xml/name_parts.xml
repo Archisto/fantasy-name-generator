@@ -612,7 +612,11 @@
         <name_part_pool starting_letter="e">
             <name_part>e</name_part>
             <name_part>ea</name_part>
+            <name_part>ec</name_part>
+            <name_part>eck</name_part>
+            <name_part>ei</name_part>
             <name_part>ell</name_part>
+            <name_part>em</name_part>
             <name_part>en</name_part>
             <name_part>enz</name_part>
             <name_part>er</name_part>
@@ -620,7 +624,10 @@
             <name_part>ers</name_part>
             <name_part>es</name_part>
             <name_part>ess</name_part>
+            <name_part>eth</name_part>
             <name_part>eus</name_part>
+            <name_part>ex</name_part>
+            <name_part>ez</name_part>
         </name_part_pool>
         <name_part_pool starting_letter="f">
             <name_part>fan</name_part>
@@ -662,6 +669,7 @@
             <name_part>ia</name_part>
             <name_part>iam</name_part>
             <name_part>ian</name_part>
+            <name_part>iang</name_part>
             <name_part>ic</name_part>
             <name_part>ica</name_part>
             <name_part>id</name_part>
@@ -677,6 +685,8 @@
             <name_part>ins</name_part>
             <name_part>io</name_part>
             <name_part>is</name_part>
+            <name_part>it</name_part>
+            <name_part>ith</name_part>
             <name_part>ius</name_part>
             <name_part>ix</name_part>
         </name_part_pool>
@@ -715,10 +725,14 @@
             <name_part>ll</name_part>
             <name_part>lla</name_part>
             <name_part>llad</name_part>
+            <name_part>llan</name_part>
             <name_part>lle</name_part>
-            <name_part>lleck</name_part>
+            <name_part>llen</name_part>
             <name_part>llet</name_part>
+            <name_part>lli</name_part>
+            <name_part>llin</name_part>
             <name_part>llo</name_part>
+            <name_part>lly</name_part>
             <name_part>lo</name_part>
             <name_part>lon</name_part>
             <name_part>los</name_part>
@@ -772,6 +786,8 @@
             <name_part>nov</name_part>
             <name_part>nova</name_part>
             <name_part>ns</name_part>
+            <name_part>nts</name_part>
+            <name_part>ntz</name_part>
             <name_part>nus</name_part>
             <name_part>ny</name_part>
             <name_part>nz</name_part>
@@ -792,6 +808,7 @@
             <name_part>ow</name_part>
         </name_part_pool>
         <name_part_pool starting_letter="p">
+            <name_part>pan</name_part>
             <name_part>par</name_part>
             <name_part>per</name_part>
             <name_part>pia</name_part>
@@ -855,6 +872,7 @@
         <name_part_pool starting_letter="t">
             <name_part>tch</name_part>
             <name_part>th</name_part>
+            <name_part>thal</name_part>
             <name_part>than</name_part>
             <name_part>ther</name_part>
             <name_part>thon</name_part>
@@ -876,6 +894,7 @@
             <name_part>ue</name_part>
             <name_part>ul</name_part>
             <name_part>ult</name_part>
+            <name_part>um</name_part>
             <name_part>un</name_part>
             <name_part>ur</name_part>
             <name_part>us</name_part>
